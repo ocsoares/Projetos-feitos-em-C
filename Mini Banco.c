@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-typedef struct{ // TESTE !!!    ---- // OUTRO TESTE KKKKKK
+typedef struct{ // arroz
 
     char name[100];
     char country[50];
