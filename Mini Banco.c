@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-typedef struct{ // arroz
+typedef struct{ // testando o merge
 
     char name[100];
     char country[50];
